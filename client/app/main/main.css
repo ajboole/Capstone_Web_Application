@@ -9,6 +9,7 @@
 
 #banner h1 {
   font-size: 60px;
+  font-family: "Georgia", serif;
   line-height: 1;
   letter-spacing: -1px;
 }
@@ -19,7 +20,7 @@
   color: #F5F5F5;
   text-align: center;
   text-shadow: 0 1px 0 rgba(0, 0, 0, 0.1);
-  background: #2C3E50;
+  background: #7894A0;
 }
 
 .navbar-text {
